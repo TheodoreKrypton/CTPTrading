@@ -112,6 +112,7 @@
   <ItemGroup>
     <ClCompile Include="command.cpp" />
     <ClCompile Include="Common.cpp" />
+    <ClCompile Include="EA.cpp" />
     <ClCompile Include="Logger.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="price.cpp" />
@@ -123,6 +124,7 @@
   <ItemGroup>
     <ClInclude Include="command.h" />
     <ClInclude Include="Common.h" />
+    <ClInclude Include="EA.h" />
     <ClInclude Include="Logger.h" />
     <ClInclude Include="price.h" />
     <ClInclude Include="Query.h" />

@@ -1,0 +1,124 @@
+[21:43:50] [md]Front Connected...
+[21:43:50] [md]Send Login Request... Successed
+[21:43:50] [md]Date: 20170222
+[21:43:53] [td]Front Connected...
+[21:43:53] [td]Send Login Request... Successed
+[21:43:53] [td]Date: 20170222
+[21:43:54] [td]Request Settlement Info Confirm... Successed
+[21:43:55] [td]Instruments:
+[21:43:56] [td]Request Query Instrument... Successed
+[21:43:56] [td]Instrument Id:	au1706
+[21:43:58] [td]Request Query Trading Account... Successed
+[21:43:58] [td]Balance: 997660.00
+[21:43:58] [td]Available: 980131.00
+[21:43:58] [td]Close Profit: 0.00
+[21:43:58] [td]Position Profit: 900.00
+[21:44:00] [td]Request Query Investor Position... Successed
+[21:44:00] [td]Open Volume:0
+[21:45:13] [md]Front Connected...
+[21:45:13] [md]Send Login Request... Successed
+[21:45:13] [md]Date: 20170222
+[21:45:33] [md]Front Connected...
+[21:45:33] [md]Send Login Request... Successed
+[21:45:33] [td]Front Connected...
+[21:45:33] [td]Send Login Request... Successed
+[21:45:33] [md]Date: 20170222
+[21:45:33] [td]Date: 20170222
+[21:45:34] [td]Request Settlement Info Confirm... Successed
+[21:45:34] [td]Instruments:
+[21:45:35] [td]Request Query Instrument... Successed
+[21:45:36] [td]Instrument Id:	au1706
+[21:45:38] [td]Request Query Trading Account... Successed
+[21:45:38] [td]Balance: 997760.00
+[21:45:38] [td]Available: 980131.00
+[21:45:38] [td]Close Profit: 0.00
+[21:45:38] [td]Position Profit: 1000.00
+[21:45:40] [td]Request Query Investor Position... Successed
+[21:45:40] [td]Open Volume:0
+[21:46:02] [td]Front Connected...
+[21:46:02] [td]Send Login Request... Successed
+[21:46:02] [md]Front Connected...
+[21:46:02] [md]Send Login Request... Successed
+[21:46:03] [td]Date: 20170222
+[21:46:03] [md]Date: 20170222
+[21:46:04] [td]Request Settlement Info Confirm... Successed
+[21:46:04] [td]Instruments:
+[21:46:05] [td]Request Query Instrument... Successed
+[21:46:05] [td]Instrument Id:	au1706
+[21:46:07] [td]Request Query Trading Account... Successed
+[21:46:07] [td]Balance: 997710.00
+[21:46:07] [td]Available: 980131.00
+[21:46:07] [td]Close Profit: 0.00
+[21:46:07] [td]Position Profit: 950.00
+[21:46:09] [td]Request Query Investor Position... Successed
+[21:46:10] [td]Open Volume:0
+[22:08:59] [md]Front Connected...
+[22:09:11] [md]Front Connected...
+[22:11:04] [md]Front Connected...
+[22:11:24] [td]Front Connected...
+[22:11:24] [td]Send Login Request... Successed
+[22:39:09] [td]Front Connected...
+[22:39:09] [td]Send Login Request... Successed
+[22:39:09] [td]Date: 20170222
+[22:39:10] [td]Request Settlement Info Confirm... Successed
+[22:39:10] [td]Instruments:
+[22:39:11] [td]Request Query Instrument... Successed
+[22:39:11] [td]Instrument Id:	au1706
+[22:39:13] [td]Request Query Trading Account... Successed
+[22:39:13] [td]Balance: 997810.00
+[22:39:13] [td]Available: 980131.00
+[22:39:13] [td]Close Profit: 0.00
+[22:39:13] [td]Position Profit: 1050.00
+[22:39:15] [td]Request Query Investor Position... Successed
+[22:39:16] [td]Open Volume:0
+[22:39:44] [md]Front Connected...
+[22:39:44] [md]Send Login Request... Successed
+[22:39:44] [md]Date: 20170222
+[22:41:29] [md]Front Connected...
+[22:41:29] [md]Send Login Request... Successed
+[22:41:30] [md]Date: 20170222
+[22:44:52] [md]Front Connected...
+[22:44:52] [md]Send Login Request... Successed
+[22:44:52] [md]Date: 20170222
+[22:47:01] [md]Front Connected...
+[22:47:01] [md]Send Login Request... Successed
+[22:47:01] [md]Date: 20170222
+[23:04:46] [md]Front Connected...
+[23:04:46] [md]Send Login Request... Successed
+[23:04:47] [md]Date: 20170222
+[23:06:35] [md]Front Connected...
+[23:06:35] [md]Send Login Request... Successed
+[23:06:35] [md]Date: 20170222
+[23:06:51] [md]Front Connected...
+[23:06:51] [md]Send Login Request... Successed
+[23:06:51] [md]Date: 20170222
+[23:06:51] [td]Front Connected...
+[23:06:51] [td]Send Login Request... Successed
+[23:06:51] [td]Date: 20170222
+[23:06:52] [td]Request Settlement Info Confirm... Successed
+[23:06:53] [td]Instruments:
+[23:06:54] [td]Request Query Instrument... Successed
+[23:06:54] [td]Instrument Id:	au1706
+[23:06:56] [td]Request Query Trading Account... Successed
+[23:06:56] [td]Balance: 996860.00
+[23:06:56] [td]Available: 980131.00
+[23:06:56] [td]Close Profit: 0.00
+[23:06:56] [td]Position Profit: 100.00
+[23:06:58] [td]Request Query Investor Position... Successed
+[23:06:58] [td]Open Volume:0
+[23:07:43] [md]Front Connected...
+[23:07:43] [md]Send Login Request... Successed
+[23:07:44] [md]Date: 20170222
+[23:14:41] [md]Front Connected...
+[23:14:41] [md]Send Login Request... Successed
+[23:14:41] [md]Date: 20170222
+[23:15:05] [md]Front Connected...
+[23:15:05] [md]Send Login Request... Successed
+[23:15:06] [md]Date: 20170222
+[23:15:06] [td]Front Connected...
+[23:15:06] [td]Send Login Request... Successed
+[23:15:06] [td]Date: 20170222
+[23:15:07] [td]Request Settlement Info Confirm... Successed
+[23:15:07] [td]Instruments:
+[23:15:08] [td]Request Query Instrument... Successed
+[23:15:08] [td]Instrument Id:	au1706
